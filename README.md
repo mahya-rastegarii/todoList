@@ -6,4 +6,3 @@ And the following libraries are used in this project:
 
 
 ![todoList](https://github.com/mahya-rastegarii/todoList/assets/89992059/c6db5ef9-cfd8-4788-9d29-708c75939967)
-![Picture-todoList2](https://github.com/mahya-rastegarii/todoList/assets/89992059/d95e9098-49c9-49b8-ae9c-61579c0d0f99)
