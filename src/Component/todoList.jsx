@@ -13,7 +13,7 @@ import Todo from './todo';
 export default function TodoList() {
 
 
-  const url = "http://localhost:3000/todos/"
+  const url = "https://jserver-todolist.iran.liara.run/todos/"
   const defaultTheme = theme[0] ;
   
   const [inputValue, setInputValue] = useState('')
